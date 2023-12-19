@@ -1,0 +1,21 @@
+.nameDiv{
+   padding: 50px;
+    width: 100%;
+    text-align: center;
+    background-color: green;
+    transition: .6s;
+    width: 100%;
+}
+
+.nameDiv p{
+    font-size: xx-large;
+    color: #fff;
+    font-family: bold;
+}
+
+.nameDiv:hover{
+    background-color: black;
+  
+}
+
+

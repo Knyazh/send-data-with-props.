@@ -3,7 +3,9 @@ import './welcome.css'
 
 const WelcomeMessage = (props) => {
   return (
-    <div>Welcome : {props.name}</div>
+    <div  className='nameDiv'><p>
+      Welcome : {props.name}
+      </p></div>
   )
 }
 
