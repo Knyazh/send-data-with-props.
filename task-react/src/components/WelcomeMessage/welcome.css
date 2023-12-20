@@ -3,7 +3,7 @@
     width: 100%;
     text-align: center;
     background-color: green;
-    transition: .6s;
+    transition: .1s;
     width: 100%;
 }
 
@@ -15,6 +15,7 @@
 
 .nameDiv:hover{
     background-color: black;
+
   
 }
 
